@@ -1,4 +1,4 @@
-# My-SQL-Solutions
+# My SQL Solutions
 
 A collection of my daily SQL solutions to 50 LeetCode problems, covering query optimization, database design, and data analysis, to improve my coding skills and showcase my progress.
 
