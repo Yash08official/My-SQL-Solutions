@@ -2,7 +2,6 @@
 
 Table: Tweets
 
-
 | Column Name    | Type    |
 |---------|-------------|
 | tweet_id       | int     |
